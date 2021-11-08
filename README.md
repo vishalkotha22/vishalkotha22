@@ -5,4 +5,4 @@ Contact:
 Email: vishalrk0922@gmail.com
 Phone: (571)495-0922
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkotha22)](https://github.com/anuraghazra/github-readme-stats)
