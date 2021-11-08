@@ -5,4 +5,4 @@ Contact:
 Email: vishalrk0922@gmail.com
 Phone: (571)495-0922
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<vishalkotha22>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<vishalkotha22>&theme=<radical>" />
