@@ -1,6 +1,6 @@
 Hi😃!
 I'm Vishal Kotha and I'm currently a rising junior at the University of Maryland after graduating from Thomas Jefferson High School for Science and Technology. Here are some cool projects I've done:
-
+- Building an OCaml compiler using OCaml or simulating a CS submit server in C using system calls and forks
 - A Trie that's globally accessible
 - Walker: helping the blind navigate by vocalizing object's distance and locations (Winner of Best AI / ML Hack of HackTJ 8.0)
 - Ichos: diagnosing Specific Language Impairment, Alzheimer's, and various respiratory diseases with machine learning (Winner of Congressional App Challenge 2021 - VA District 10)
