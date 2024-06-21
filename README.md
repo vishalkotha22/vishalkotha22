@@ -1,5 +1,5 @@
 Hi😃!
-I'm Vishal Kotha and I'm currently a freshman at the University of Maryland after graduating from Thomas Jefferson High School for Science and Technology. Here are some cool projects I've done:
+I'm Vishal Kotha and I'm currently a rising junior at the University of Maryland after graduating from Thomas Jefferson High School for Science and Technology. Here are some cool projects I've done:
 
 - A Trie that's globally accessible
 - Walker: helping the blind navigate by vocalizing object's distance and locations (Winner of Best AI / ML Hack of HackTJ 8.0)
