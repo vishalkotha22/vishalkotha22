@@ -8,3 +8,7 @@ I'm Vishal Kotha and I'm currently a junior at the University of Maryland after 
 - Glaucoma Diagnosis: evaluating the generalizability of a CNN across different datasets and proposing an approach to improve its generalizability (Published in IEEE DSAA 2022)
 - Lab6: A short Android Studio project, one among many that aren't uploaded right now
 - Various USACO code or other small, personal projects
+
+<html>
+<a href="https://vishalkotha22.github.io/personal_portfolio/">Personal Website</a>
+</html>
