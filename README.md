@@ -12,3 +12,5 @@ Here are some cool projects I've done:
 - Glaucoma Diagnosis: evaluating the generalizability of a CNN across different datasets and proposing an approach to improve its generalizability (Published in IEEE DSAA 2022)
 - Lab6: A short Android Studio project, one among many that aren't uploaded right now
 - Various USACO code or other small, personal projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkotha22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
