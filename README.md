@@ -1,7 +1,7 @@
 Hi😃!
 I'm Vishal Kotha and I'm currently a junior at the University of Maryland after graduating from Thomas Jefferson High School for Science and Technology. 
 <html>
-<a href="https://vishalkotha22.github.io/personal_portfolio/">Press here to go to my personal website!</a>
+<a href="https://vishalkotha22.github.io/personal_portfolio/">Press here to go to my personal website!</a><br>
 </html>
 Here are some cool projects I've done:
 - Building an OCaml compiler using OCaml or simulating a CS submit server in C using system calls and forks
